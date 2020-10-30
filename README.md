@@ -1,10 +1,10 @@
-# Ethereum Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
+# Wanchain Contract Metadata [![CircleCI](https://circleci.com/gh/MetaMask/eth-contract-metadata.svg?style=svg)](https://circleci.com/gh/MetaMask/eth-contract-metadata)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-contract-metadata.svg)](https://greenkeeper.io/)
 
-A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
+A mapping of checksummed wanchain addresses to metadata, like names, and images of those addresses' logos.
 
-All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
+All address keys follow the [EIP 55 address checksum format](https://github.com/wanchain/EIPs/issues/55).
 
 This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
 
@@ -14,7 +14,7 @@ You can install from npm with `npm install eth-contract-metadata` and use it in 
 
 ```javascript
 import contractMap from 'eth-contract-metadata'
-import ethJSUtil from 'ethereumjs-util'
+import ethJSUtil from 'wanchainjs-util'
 const { toChecksumAddress } = ethJSUtil
 
 function imageElFor (address) {
