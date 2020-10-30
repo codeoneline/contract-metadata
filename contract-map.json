@@ -78,7 +78,7 @@
   },
   "0xe3Ae74d1518a76715Ab4c7bEdf1AF73893CD435a": {
     "name": "wanETH@wanchain",
-    "logo": "wanETH.png",
+    "logo": "wanEth.png",
     "erc20": true,
     "symbol": "wanETH",
     "decimals": 18
