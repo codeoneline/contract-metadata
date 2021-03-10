@@ -1,9 +1,9 @@
 {
   "0xD15E200060Fc17ef90546ad93c1C61BfeFDC89C7": {
-    "name": "wanBTC@Wanchain",
+    "name": "wanOBTC",
     "logo": "wanBtc.png",
     "erc20": true,
-    "symbol": "wanBTC",
+    "symbol": "wanOBTC",
     "decimals": 8
   },
   "0x51316966907ef568689775066e97c46a4Ffde1a4": {
@@ -138,5 +138,33 @@
     "erc20": true,
     "symbol": "wanEURS",
     "decimals": 2
+  },
+  "0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a": {
+    "name": "WASP",
+    "logo": "WASP.png",
+    "erc20": true,
+    "symbol": "WASP",
+    "decimals": 18
+  },
+  "0x50c439b6d602297252505a6799d84ea5928bcfb6": {
+    "name": "wanBTC",
+    "logo": "wanBtc.png",
+    "erc20": true,
+    "symbol": "wanBTC",
+    "decimals": 8
+  },
+  "0x73eaa7431b11b1e7a7d5310de470de09883529df": {
+    "name": "wanUNI",
+    "logo": "wanUNI.png",
+    "erc20": true,
+    "symbol": "wanUNI",
+    "decimals": 18
+  },
+  "0x9b6863f6ab2047069ad1cd15fff8c45af637d67c": {
+    "name": "wanSUSHI",
+    "logo": "wanSUSHI.png",
+    "erc20": true,
+    "symbol": "wanSUSHI",
+    "decimals": 18
   }
 }
