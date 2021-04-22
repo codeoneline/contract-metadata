@@ -147,24 +147,59 @@
     "decimals": 18
   },
   "0x50c439b6d602297252505a6799d84ea5928bcfb6": {
-    "name": "wanBTC",
+    "name": "wanBTC@wanchain",
     "logo": "wanBtc.png",
     "erc20": true,
     "symbol": "wanBTC",
     "decimals": 8
   },
   "0x73eaa7431b11b1e7a7d5310de470de09883529df": {
-    "name": "wanUNI",
+    "name": "wanUNI@wanchain",
     "logo": "wanUNI.png",
     "erc20": true,
     "symbol": "wanUNI",
     "decimals": 18
   },
   "0x9b6863f6ab2047069ad1cd15fff8c45af637d67c": {
-    "name": "wanSUSHI",
+    "name": "wanSUSHI@wanchain",
     "logo": "wanSUSHI.png",
     "erc20": true,
     "symbol": "wanSUSHI",
+    "decimals": 18
+  },
+  "0xde1a20792553b84ddb254ca78fa7c5996ad5fbe2": {
+    "name": "wanVIBE@wanchain",
+    "logo": "wanVibe.png",
+    "erc20": true,
+    "symbol": "wanVIBE",
+    "decimals": 18
+  },
+  "0xf665e0e3e75d16466345e1129530ec28839efaea": {
+    "name": "wanXRP@wanchain",
+    "logo": "wanXrp.png",
+    "erc20": true,
+    "symbol": "wanXRP",
+    "decimals": 6
+  },
+  "0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f": {
+    "name": "ZooToken",
+    "logo": "zoo.png",
+    "erc20": true,
+    "symbol": "zoo",
+    "decimals": 18
+  },
+  "0xf1d0ad0c4a612ecf4931b673245f1fc2935bccdc": {
+    "name": "wanZCN@wanchain",
+    "logo": "wanZcn.png",
+    "erc20": true,
+    "symbol": "wanZCN",
+    "decimals": 10
+  },
+  "0xdab498c11f19b25611331cebffd840576d1dc86d": {
+    "name": "wanFNX-from-ethereum",
+    "logo": "fnx.png",
+    "erc20": true,
+    "symbol": "wanFNX",
     "decimals": 18
   }
 }
