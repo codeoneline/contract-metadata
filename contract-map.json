@@ -185,7 +185,7 @@
     "name": "ZooToken",
     "logo": "zoo.png",
     "erc20": true,
-    "symbol": "zoo",
+    "symbol": "ZOO",
     "decimals": 18
   },
   "0xf1d0ad0c4a612ecf4931b673245f1fc2935bccdc": {
