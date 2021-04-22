@@ -194,12 +194,5 @@
     "erc20": true,
     "symbol": "wanZCN",
     "decimals": 10
-  },
-  "0xdab498c11f19b25611331cebffd840576d1dc86d": {
-    "name": "wanFNX-from-ethereum",
-    "logo": "fnx.png",
-    "erc20": true,
-    "symbol": "wanFNX",
-    "decimals": 18
   }
 }
